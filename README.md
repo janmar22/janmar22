@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Janmar Suan
 
-<!--
-**janmar22/janmar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Grade 12 STEM (Wisdom) student from Jose Abad Santos High School, and I'm passionate about coding and open-source contributions. Currently exploring basic coding language.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy learning coding languages
+- I'm interested in web and app development
+- My Goal is to make a functional and useful app
+  
+### Let's Connect:
+- Email: janmarsuan222@gmail.com
+
+#### Thanks Feati!!
+
